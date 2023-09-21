@@ -3,7 +3,3 @@
 3.start apache and mysql server in xamp application.
 4.open a browser.
 5.goto-> localhost/Parking/
-
-
-
-Contact deb.mvjce@gmail.com
